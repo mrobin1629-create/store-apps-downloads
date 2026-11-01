@@ -6,5 +6,13 @@
     "size": 21085323,
     "sha256": "2526bb197b2ebc2fdaace476ad8563919dae88c8e9e9d9723bff0c76269a6ec3",
     "notes": "Check for updates now reads this downloads page. Your data, license and settings are kept."
+  },
+  "BevMargin": {
+    "version": "1.5.0",
+    "file": "BevMargin-Setup-1.5.0.exe",
+    "url": "https://raw.githubusercontent.com/mrobin1629-create/store-apps-downloads/main/beer/BevMargin-Setup-1.5.0.exe",
+    "size": 20932668,
+    "sha256": "2c6af67dcfb09507731d2fabb1338a41f8d36b6ea3497e4475d4daeb7d5a93b6",
+    "notes": "License key with 14-day free trial, and Check for updates. Your data and settings are kept."
   }
 }
