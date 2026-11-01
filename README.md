@@ -1,12 +1,11 @@
 # Store Apps - Downloads
 
-Setup files for **Robin Mishra's** store pricing apps. Download the newest setup file from
-[Releases](../../releases) and run it. Installing over an older version keeps your data, settings and license.
+Setup files for **Robin Mishra's** store pricing apps. Download the newest setup file below and run it. Installing over an older version keeps your data, settings and license.
 
 | App | Setup file |
 |---|---|
-| Tobacco, Cigarettes & Vape Pricing | `TobaccoPricing-Setup-x.y.z.exe` |
-| Beer and Liquor Pricing | `BevMargin-Setup-x.y.z.exe` |
+| Tobacco, Cigarettes & Vape Pricing | [TobaccoPricing-Setup-1.4.1.exe](tobacco/TobaccoPricing-Setup-1.4.1.exe?raw=1) |
+| Beer and Liquor Pricing | coming soon |
 
 Inside the apps: **About > Check for updates** installs the newest version for you.
 
