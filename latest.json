@@ -8,11 +8,11 @@
     "notes": "Security update: stronger passwords, sign-in lockout after 5 wrong tries, safer imports, exports and updates. Your data, license and settings are kept."
   },
   "BevMargin": {
-    "version": "1.5.1",
-    "file": "BevMargin-Setup-1.5.1.exe",
-    "url": "https://raw.githubusercontent.com/mrobin1629-create/store-apps-downloads/main/beer/BevMargin-Setup-1.5.1.exe",
-    "size": 20975484,
-    "sha256": "d3c8629f3df42bfefc1a8f06355111c3448c009629317bea4973e75efda347df",
-    "notes": "Security update: stronger passwords, sign-in lockout after 5 wrong tries, safer imports, exports and updates. Your data, license and settings are kept."
+    "version": "1.5.2",
+    "file": "BevMargin-Setup-1.5.2.exe",
+    "url": "https://raw.githubusercontent.com/mrobin1629-create/store-apps-downloads/main/beer/BevMargin-Setup-1.5.2.exe",
+    "size": 23796179,
+    "sha256": "2cc1da8cbb40a907cd7b420eb5cc6917fe18c4659ed183ef0c3b7627d66cec33",
+    "notes": "Data protection update: your data and backups are now encrypted, and you'll set a backup password at the next admin sign-in (write it down). Your data, license and settings are kept."
   }
 }
