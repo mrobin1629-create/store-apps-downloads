@@ -1,11 +1,11 @@
 {
   "TobaccoPricing": {
-    "version": "1.4.3",
-    "file": "TobaccoPricing-Setup-1.4.3.exe",
-    "url": "https://raw.githubusercontent.com/mrobin1629-create/store-apps-downloads/main/tobacco/TobaccoPricing-Setup-1.4.3.exe",
-    "size": 24039047,
-    "sha256": "55c2b5edd1adcdce6d463c1a4e78b6e6c6227560935141a1ceb1beb6a341c8d3",
-    "notes": "Data protection update: your data and backups are now encrypted, and you'll set a backup password at the next admin sign-in (write it down). Your data, license and settings are kept."
+    "version": "1.4.4",
+    "file": "TobaccoPricing-Setup-1.4.4.exe",
+    "url": "https://raw.githubusercontent.com/mrobin1629-create/store-apps-downloads/main/tobacco/TobaccoPricing-Setup-1.4.4.exe",
+    "size": 24043692,
+    "sha256": "c4a415d070d456d71dbe450d4b0f271a6fdcf11c32a210ac568ca34dcf342011",
+    "notes": "New Cigarettes > Low Cost tab (24/7, Cheyenne, Decade, Berley and other low-cost brands) with the same columns and math as the Price Sheet. Your data, license and settings are kept."
   },
   "BevMargin": {
     "version": "1.5.2",
