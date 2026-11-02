@@ -1,18 +1,18 @@
 {
   "TobaccoPricing": {
-    "version": "1.4.1",
-    "file": "TobaccoPricing-Setup-1.4.1.exe",
-    "url": "https://raw.githubusercontent.com/mrobin1629-create/store-apps-downloads/main/tobacco/TobaccoPricing-Setup-1.4.1.exe",
-    "size": 21085323,
-    "sha256": "2526bb197b2ebc2fdaace476ad8563919dae88c8e9e9d9723bff0c76269a6ec3",
-    "notes": "Check for updates now reads this downloads page. Your data, license and settings are kept."
+    "version": "1.4.2",
+    "file": "TobaccoPricing-Setup-1.4.2.exe",
+    "url": "https://raw.githubusercontent.com/mrobin1629-create/store-apps-downloads/main/tobacco/TobaccoPricing-Setup-1.4.2.exe",
+    "size": 21129756,
+    "sha256": "3eae03039d90791501115b28d426d076449ee2017d1b36c12b11df3b10fa7408",
+    "notes": "Security update: stronger passwords, sign-in lockout after 5 wrong tries, safer imports, exports and updates. Your data, license and settings are kept."
   },
   "BevMargin": {
-    "version": "1.5.0",
-    "file": "BevMargin-Setup-1.5.0.exe",
-    "url": "https://raw.githubusercontent.com/mrobin1629-create/store-apps-downloads/main/beer/BevMargin-Setup-1.5.0.exe",
-    "size": 20932668,
-    "sha256": "2c6af67dcfb09507731d2fabb1338a41f8d36b6ea3497e4475d4daeb7d5a93b6",
-    "notes": "License key with 14-day free trial, and Check for updates. Your data and settings are kept."
+    "version": "1.5.1",
+    "file": "BevMargin-Setup-1.5.1.exe",
+    "url": "https://raw.githubusercontent.com/mrobin1629-create/store-apps-downloads/main/beer/BevMargin-Setup-1.5.1.exe",
+    "size": 20975484,
+    "sha256": "d3c8629f3df42bfefc1a8f06355111c3448c009629317bea4973e75efda347df",
+    "notes": "Security update: stronger passwords, sign-in lockout after 5 wrong tries, safer imports, exports and updates. Your data, license and settings are kept."
   }
 }
