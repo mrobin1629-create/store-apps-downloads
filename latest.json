@@ -1,11 +1,11 @@
 {
   "TobaccoPricing": {
-    "version": "1.4.4",
-    "file": "TobaccoPricing-Setup-1.4.4.exe",
-    "url": "https://raw.githubusercontent.com/mrobin1629-create/store-apps-downloads/main/tobacco/TobaccoPricing-Setup-1.4.4.exe",
-    "size": 24043692,
-    "sha256": "c4a415d070d456d71dbe450d4b0f271a6fdcf11c32a210ac568ca34dcf342011",
-    "notes": "New Cigarettes > Low Cost tab (24/7, Cheyenne, Decade, Berley and other low-cost brands) with the same columns and math as the Price Sheet. Your data, license and settings are kept."
+    "version": "1.4.5",
+    "file": "TobaccoPricing-Setup-1.4.5.exe",
+    "url": "https://raw.githubusercontent.com/mrobin1629-create/store-apps-downloads/main/tobacco/TobaccoPricing-Setup-1.4.5.exe",
+    "size": 24057960,
+    "sha256": "a5a96b89be7d779b2bcc0aefcb40bba0bd86d4154557349fa0611525579e366e",
+    "notes": "Every tab now uses your price sheet's columns (Brand, Cost per CTN, Buydown, Net Cost, CP per Pack, Selling Price per Pack / CTN, Profit, Column1). Altria / RJRT / Winston Salem tabs show cost, price and profit too. Your data, license and settings are kept."
   },
   "BevMargin": {
     "version": "1.5.2",
