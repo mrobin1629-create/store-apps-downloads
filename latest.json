@@ -1,11 +1,11 @@
 {
   "TobaccoPricing": {
-    "version": "1.4.6",
-    "file": "TobaccoPricing-Setup-1.4.6.exe",
-    "url": "https://raw.githubusercontent.com/mrobin1629-create/store-apps-downloads/main/tobacco/TobaccoPricing-Setup-1.4.6.exe",
-    "size": 24054592,
-    "sha256": "a4a5d1a464184d5011b74617bfc0d4d809d3545b5617bf4988d235f7b77b6962",
-    "notes": "Allowance now sits next to Buydown, and Column1, Item#, UPC, Qty, Price, Dep and Pallet are no longer shown in the tables. Your data, license and settings are kept."
+    "version": "1.4.7",
+    "file": "TobaccoPricing-Setup-1.4.7.exe",
+    "url": "https://raw.githubusercontent.com/mrobin1629-create/store-apps-downloads/main/tobacco/TobaccoPricing-Setup-1.4.7.exe",
+    "size": 24051584,
+    "sha256": "abdd2a93b1383c47bd0e72686d7aff024552c884576727a6dd47ba05ce1c6fcd",
+    "notes": "Tobacco tab: Supplier, Ext and Units columns removed. Your data, license and settings are kept."
   },
   "BevMargin": {
     "version": "1.5.2",
