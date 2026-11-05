@@ -1,11 +1,11 @@
 {
   "TobaccoPricing": {
-    "version": "1.4.5",
-    "file": "TobaccoPricing-Setup-1.4.5.exe",
-    "url": "https://raw.githubusercontent.com/mrobin1629-create/store-apps-downloads/main/tobacco/TobaccoPricing-Setup-1.4.5.exe",
-    "size": 24057960,
-    "sha256": "a5a96b89be7d779b2bcc0aefcb40bba0bd86d4154557349fa0611525579e366e",
-    "notes": "Every tab now uses your price sheet's columns (Brand, Cost per CTN, Buydown, Net Cost, CP per Pack, Selling Price per Pack / CTN, Profit, Column1). Altria / RJRT / Winston Salem tabs show cost, price and profit too. Your data, license and settings are kept."
+    "version": "1.4.6",
+    "file": "TobaccoPricing-Setup-1.4.6.exe",
+    "url": "https://raw.githubusercontent.com/mrobin1629-create/store-apps-downloads/main/tobacco/TobaccoPricing-Setup-1.4.6.exe",
+    "size": 24054592,
+    "sha256": "a4a5d1a464184d5011b74617bfc0d4d809d3545b5617bf4988d235f7b77b6962",
+    "notes": "Allowance now sits next to Buydown, and Column1, Item#, UPC, Qty, Price, Dep and Pallet are no longer shown in the tables. Your data, license and settings are kept."
   },
   "BevMargin": {
     "version": "1.5.2",
