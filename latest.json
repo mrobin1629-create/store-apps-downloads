@@ -8,11 +8,11 @@
     "notes": "Tobacco tab: Supplier, Ext and Units columns removed. Your data, license and settings are kept."
   },
   "BevMargin": {
-    "version": "1.5.2",
-    "file": "BevMargin-Setup-1.5.2.exe",
-    "url": "https://raw.githubusercontent.com/mrobin1629-create/store-apps-downloads/main/beer/BevMargin-Setup-1.5.2.exe",
-    "size": 23796179,
-    "sha256": "2cc1da8cbb40a907cd7b420eb5cc6917fe18c4659ed183ef0c3b7627d66cec33",
-    "notes": "Data protection update: your data and backups are now encrypted, and you'll set a backup password at the next admin sign-in (write it down). Your data, license and settings are kept."
+    "version": "1.5.3",
+    "file": "BevMargin-Setup-1.5.3.exe",
+    "url": "https://raw.githubusercontent.com/mrobin1629-create/store-apps-downloads/main/beer/BevMargin-Setup-1.5.3.exe",
+    "size": 24853094,
+    "sha256": "57bad70f141fed1d493fcace5cbe1ee6186bc5dbd13ba41d184c0bb83592e17f",
+    "notes": "Import supplier invoice PDFs (Southern Glazer's, Wil Fischer), checked against the invoice totals. Sound effects for missed scans, imports, saves and price ups / downs (on/off on About). Your data, license and settings are kept."
   }
 }
