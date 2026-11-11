@@ -8,11 +8,11 @@
     "notes": "Import supplier invoice PDFs (HUB KCCC / KC Cash & Carry), checked against the invoice totals. Sound effects for missed scans, imports, saves and price ups / downs (on/off on About). Your data, license and settings are kept."
   },
   "BevMargin": {
-    "version": "1.5.3",
-    "file": "BevMargin-Setup-1.5.3.exe",
-    "url": "https://raw.githubusercontent.com/mrobin1629-create/store-apps-downloads/main/beer/BevMargin-Setup-1.5.3.exe",
-    "size": 24853094,
-    "sha256": "57bad70f141fed1d493fcace5cbe1ee6186bc5dbd13ba41d184c0bb83592e17f",
-    "notes": "Import supplier invoice PDFs (Southern Glazer's, Wil Fischer), checked against the invoice totals. Sound effects for missed scans, imports, saves and price ups / downs (on/off on About). Your data, license and settings are kept."
+    "version": "1.5.4",
+    "file": "BevMargin-Setup-1.5.4.exe",
+    "url": "https://raw.githubusercontent.com/mrobin1629-create/store-apps-downloads/main/beer/BevMargin-Setup-1.5.4.exe",
+    "size": 24887447,
+    "sha256": "47712dd7feb08894f441a812beb28c0dfa77c46cf8ed3fac553b958ad0c2ea7b",
+    "notes": "Sync between computers through OneDrive or Dropbox (Backup > Set up sync). Restoring a backup keeps this computer's license. Your data, license and settings are kept."
   }
 }
