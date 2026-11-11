@@ -1,11 +1,11 @@
 {
   "TobaccoPricing": {
-    "version": "1.4.8",
-    "file": "TobaccoPricing-Setup-1.4.8.exe",
-    "url": "https://raw.githubusercontent.com/mrobin1629-create/store-apps-downloads/main/tobacco/TobaccoPricing-Setup-1.4.8.exe",
-    "size": 25123218,
-    "sha256": "54b68f068f83343cda441db70e1a925701f6b555cbfe601cec2b8386a2396ea3",
-    "notes": "Import supplier invoice PDFs (HUB KCCC / KC Cash & Carry), checked against the invoice totals. Sound effects for missed scans, imports, saves and price ups / downs (on/off on About). Your data, license and settings are kept."
+    "version": "1.4.9",
+    "file": "TobaccoPricing-Setup-1.4.9.exe",
+    "url": "https://raw.githubusercontent.com/mrobin1629-create/store-apps-downloads/main/tobacco/TobaccoPricing-Setup-1.4.9.exe",
+    "size": 25160745,
+    "sha256": "c7a0c94aef895eb1be57dc0a1e38cbd49a035ebb0e5169b7087a14a2e4db2c29",
+    "notes": "Sync between computers through OneDrive or Dropbox (Backup > Set up sync). Restoring a backup keeps this computer's license. Your data, license and settings are kept."
   },
   "BevMargin": {
     "version": "1.5.4",
